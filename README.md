@@ -26,3 +26,4 @@ Incluye módulos de autenticación, catálogo de productos, carrito de compras y
    ```bash
    git clone https://github.com/Fatimiau/tienda-app.git
    cd tienda-app
+ 
