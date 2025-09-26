@@ -21,9 +21,6 @@ Incluye módulos de autenticación, catálogo de productos, carrito de compras y
 - Almacenamiento en `localStorage` para persistencia de sesión y carrito.
 - Estilo moderno con diseño responsivo.
 
-## 🖼️ Vista previa
-_(Agrega capturas de pantalla de tu app aquí)_
-
 ## 📦 Instalación y uso
 1. Clonar el repositorio:
    ```bash
